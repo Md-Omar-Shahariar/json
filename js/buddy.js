@@ -16,3 +16,5 @@ const displayBuddies  = data =>{
     }
 }
 
+//lets code seriously
+console.log('I am sad');
