@@ -18,3 +18,5 @@ const displayBuddies  = data =>{
 
 //lets code seriously
 console.log('I am sad');
+//lets focus
+console.log("let's Focus");
